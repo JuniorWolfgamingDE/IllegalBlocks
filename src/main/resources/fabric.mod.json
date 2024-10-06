@@ -3,14 +3,14 @@
   "id": "illegal",
   "version": "${version}",
 
-  "name": "Illegal Building Techniques Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Illegal Building Techniques",
+  "description": "JAR built by Nino for Maik :D - Written by EightSidedSquare.",
   "authors": [
     "Me!"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://eightsidedsquare.com/",
+    "sources": "https://github.com/JuniorWolfgamingDE/IllegalBlocks/"
   },
 
   "license": "CC0-1.0",
